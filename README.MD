@@ -1,1 +1,1 @@
-Personal Web (Progressive Web App)
+Personal Web
