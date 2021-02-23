@@ -1,0 +1,30 @@
+{
+  "name": "Personal Web",
+  "short_name": "Personal Web",
+  "theme_color": "#f3a521",
+  "background_color": "#f3bf21",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "icons": [{
+      "src": "/images/manifest/72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+  },{
+      "src": "/images/manifest/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+  },{
+      "src": "/images/manifest/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+  },{
+      "src": "/images/manifest/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+  },{
+      "src": "/images/manifest/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+  }]
+}
